@@ -38,7 +38,7 @@ section#login{
 }
 section#login > div#imagem{
     display: block;
-    background: #823BD9 url('/imagens/pexels-sean-whang-804269.jpg') no-repeat;
+    background: #823BD9 url('/imagens/pexels-sean-whang-804269.jpg') ;
     background-size: cover;
     height: 200px;
     background-position: left center;
