@@ -41,7 +41,7 @@ section#login > div#imagem{
     background: #823BD9 url('../imagens/pexels-sean-whang-804269.jpg') no-repeat ;
     background-size: cover;
     height: 200px;
-    background-position: left center;
+    background-position: center;
 }
 section#login>div#form{
     display: block;
